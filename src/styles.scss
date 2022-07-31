@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@import "./assets/fonts/fonts.scss";
+
+:root {
+  /*Fonts*/
+  --fontRegular: "Bienale Regular";
+  --fontBold: "Bienale Bold";
+  --fontLight: "Bienale Light";
+  --fontLogoRegular: "Instagram Regular";
+  --fontLogoBold: "Instagram Bold";
+}
